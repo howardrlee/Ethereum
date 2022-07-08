@@ -1,0 +1,11 @@
+/bak
+/build
+/migrations
+/node_modules
+/package-lock.json
+/package.json
+/test
+/truffle-config.js
+/Web2JsGet.html
+/Web2JsPayable.html
+/Web2JsSet.html
